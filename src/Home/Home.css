@@ -1,0 +1,21 @@
+.select-ans {
+    line-height: 3rem;
+    background-color: rgb(243, 241, 238);
+    color: black;
+    margin: 1rem;
+    border: 1px solid blue;
+    font-size: 1.2rem;
+}
+input#flexRadioDefault1 {
+    margin: 15px;
+}
+
+.select-ans:hover {
+
+    background-color: rgb(121, 68, 255);
+    color: rgb(223, 223, 223);
+
+}
+.Btn_div{
+    text-align: center;
+}
