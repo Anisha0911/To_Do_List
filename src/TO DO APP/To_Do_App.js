@@ -23,34 +23,37 @@ let deletebtn = (id) => {
 }
 
     return (
-        <><div className="row main my-4">
-        <h1>TO DO APP LIST</h1>
-            <div className="col-md-10 mx-auto my-3">
+        <div className='container main_Sec'>
+            {/* <div className="row main_Sec my-4"> */}
+        <h1 className='my-'>TO DO APP LIST</h1>
+            {/* <div className="col-sm-8 mx-auto my-3"> */}
                 <input type="text" className="main_input" 
                  aria-label="To do list" value={livetask}
                  onChange={(e) => changeliveTask(e.target.value)}
                 aria-describedby="button-addon2"/>
-                    
+             
                 <button className="main_btn" 
                 onClick={() => btnClick()}
                 type="button" id="button-addon2">Action</button>
-            </div>
-            </div>
-            <ul>
+           
+            {/* </div>
+            </div> */}
+            <ul className='ul'>
                 {
                     todos.map(
                         val =>
                     <li className="show_data my-4"><div className=" show m-2 d-flex justify-content-center text-center"> 
                     {/* <p>{livetask}</p> */}
                     <p className="P_tag" style={{paddingTop : "15px"}}>{val.name} || {val.time}</p>
+                    </div>
                     <button className="main_btn dlt_btn" onClick={() => deletebtn((val.id))} 
                     type="button">Delete</button>
-                    </div>
+                 
                     </li>
                     )
                 }
             </ul>
-        </>
+        </div>
     )
 }
 export default To_Do_App;

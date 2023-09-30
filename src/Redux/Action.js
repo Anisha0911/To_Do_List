@@ -1,6 +1,6 @@
 export const JsQ = (ArrJs) =>{
-    return {
-        type: "javascript",
-        Answer : "ArrJS"
-    }
+  return {
+      type: "javascript",
+      Answer : "ArrJS"
+  }
 }
