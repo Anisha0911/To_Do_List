@@ -1,0 +1,242 @@
+[
+    {
+        "Questions": "1.Javascript is an____language?",
+        "OPt":[
+            "Object-Oriented",
+            "Object-Based",
+            "Procedural",
+            "None of the above"
+        ],
+        "Currect":"Object-Oriented"
+    },
+    {
+        "Questions": "2.Which of the following keywords is used to define a variable in Javascript",
+        "OPt":[
+            "var",
+            "let",
+            "Both A and B",
+            "None of the above"
+        ],
+        "Currect":"Both A and B"
+    },
+    {
+        "Questions": "3.Which of the following is used to access HTML element Javascript?",
+        "OPt":[
+            "getElementbyId()",
+            "getElementByClassName()",
+            "Both A and B",
+            "None of the above"
+        ],
+        "Currect":"getElementbyId()"
+    },
+    {
+        "Questions": "4.Upon encountering empty statements, what does the Javascript Interpreter do?",
+        "OPt":[
+            "Throws an error",
+            "Ignore the statements",
+            "Gives a warning",
+            "None of the above"
+        ],
+        "Currect":"Ignore the statements"
+    },
+    {
+        "Questions": "5.Which of the following methods can be used to display data in some form using Javascript?",
+        "OPt":[
+            "document.write()",
+            "console.log()",
+            "window.alert()",
+            "All of the above"
+        ],
+        "Currect":"console.log()"
+    },
+    {
+        "Questions": "6.How can a datatype be declared to be a constant type?",
+        "OPt":[
+            "const",
+            "var",
+            "let",
+            "constant"
+        ],
+        "Currect":"const"
+    },
+    {
+        "Questions": "7.When an operator's value is NULL, the typeof returned by the unarry operator is:",
+        "OPt":[
+            "Boolean",
+            "Undefined",
+            "Object",
+            "Integer"
+        ],
+        "Currect":"Object"
+    },
+    {
+        "Questions": "8.Which function is used to serialize an object into a JSON string in Javascript?",
+        "OPt":[
+            "stringify()",
+            "parse()",
+            "convert()",
+            "None of the above"
+        ],
+        "Currect":"stringify()"
+    },
+    {
+        "Questions": "9.Which of the following are in Javascript?",
+        "OPt":[
+            "Variables",
+            "Functions",
+            "Objects",
+            "All of the above"
+        ],
+        "Currect":"All of the above"
+    },
+    {
+        "Questions": "10.Which of the following is not a javascript framework?",
+        "OPt":[
+            "Node",
+            "vue",
+            "React",
+            "Cassandra"
+        ],
+        "Currect":"Cassandra"
+    },
+    {
+        "Questions": "11.What Keyword is used to declare an asynchronous function in javascript",
+        "OPt":[
+            "async",
+            "await",
+            "setTimeout",
+            "None of the above"
+        ],
+        "Currect":"async"
+    },
+    {
+        "Questions": "12.What does … operator do in JS?",
+        "OPt":[
+            "it is used to spread iterables to individual elements",
+            "it is used to describe a datatype of undefined size",
+            "No such operator exists",
+            "None of the above"
+        ],
+        "Currect":"it is used to spread iterables to individual elements"
+    },
+    {
+        "Questions": "13.How do we write a comment in Javascript?",
+        "OPt":[
+            "/**/",
+            "//",
+            "#",
+            "$$"
+        ],
+        "Currect":"//"
+    },
+    {
+        "Questions": "14.Which of the following are not server-side Javascript object?",
+        "OPt":[
+            "Date",
+            "FileUpload",
+            "Function",
+            "All of the above"
+        ],
+        "Currect":"d"
+    },
+    {
+        "Questions": "15.Which of the following attribute can hold the JavaScript version?",
+        "OPt":[
+            "Language",
+            "Script",
+            "Version",
+            "None of the above"
+        ],
+        "Currect":"None of the above"
+    },
+    {
+        "Questions": "16.Inside which HTML element do we put the javascript?",
+        "OPt":[
+            "<js>",
+            "<scripting>",
+            "<script>",
+            "<javascript>"
+        ],
+        "Currect":"<script>"
+    },
+    {
+        "Questions":"17.Which type of image maps can be used with JavaScript?",
+        "OPt":[
+            "Server-Side image maps",
+            "Client-side image maps",
+            "Both A and B",
+            "None of the above"
+        ],
+        "Currect":"Client-side image maps"
+    },
+    {
+        "Questions": "18.Choose the client-side JavaScript object?",
+        "OPt":[
+            "Database",
+            "Cursor",
+            "Client",
+            "FileUpload"
+        ],
+        "Currect":"FileUpload"
+    },
+    {
+        "Questions": "19.Choose the server-side JavaScript object?",
+        "OPt":[
+            "FileUpload",
+            "Function",
+            "File",
+            "Date"
+        ],
+        "Currect":"File"
+    },
+    {
+        "Questions": "20.Which of the following is not considered a Javascript operator?",
+        "OPt":[
+            "new",
+            "this",
+            "delete",
+            "typeof"
+        ],
+        "Currect":"this"
+    },
+    {
+        "Questions": "21.Javascript is interpreted by____",
+        "OPt":[
+            "Client",
+            "Server",
+            "Object",
+            "None of the above"
+        ],
+        "Currect":"Client"
+    },
+    {
+        "Questions": "22.Using____statement is how you test for a specific condition.",
+        "OPt":[
+            "Select",
+            "If",
+            "Switch",
+            "For"
+        ],
+        "Currect":"if"
+    },
+    {
+        "Questions": "23.Is it possible to nest functions in JavaScript?",
+        "OPt":[
+            "True",
+            "False",
+            "Both A and B",
+            "All of the above"
+        ],
+        "Currect":"True"
+    },
+    {
+        "Questions": "24.Choose the client-side Javascript object:",
+        "OPt":[
+            "Database",
+            "Cursor",
+            "Client",
+            "FileUpload"
+        ],
+        "Currect":"FileUpload"
+    }
+]
